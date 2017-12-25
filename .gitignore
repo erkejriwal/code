@@ -1,0 +1,20 @@
+#ignore all files
+.metadata/
+.settings/
+bin/
+.classpath
+.project
+Debug/
+Relese/
+.cproject
+
+#folder not to ignore
+!/*/src/*
+!/*/*/src/*
+!/*/*/*/src/*
+!/*/*/*/*/src/*
+!/*/*/*/*/*/src/*
+!/*/*/*/*/*/*/src/*
+!/*/*/*/*/*/*/*/src/*
+
+!*.java
